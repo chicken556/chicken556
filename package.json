@@ -1,0 +1,14 @@
+{
+  "name": "botalp",
+  "version": "0.0.1",
+  "description": "Attention, this bot has coded itself!!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Alperen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
